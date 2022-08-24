@@ -10,3 +10,5 @@ print('variable =',12, sep='\n')
 
 #sep='' separa las variables en un print al momento de mostrarlo en la terminal de codigo
 
+#test
+
