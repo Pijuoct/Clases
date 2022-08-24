@@ -31,4 +31,13 @@ Herramientas mediante las cuales crearemos nuestro 1er repositorio llamada Clase
 El repositorio clases contendra todo lo impartido en clases, estara compuesto por archivos de texto
 y practicas de codigo
 
-testing
+Configurar GitHub en Visual Studio Code
+
+*Configurar usuario y contraseña en el terminal
+*Seleccionar la pestaña de Git (los 3 nodos)
+*Inicializar repositorio (Working Directory) click Initialize_repository
+*Llevar el repository al stage area: seleccionar +
+*Llevar el repositorio al commit area: debemos darle un nombre al commit
+*Publicar en la nube
+
+
