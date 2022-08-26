@@ -1,0 +1,44 @@
+Agosto 24
+
+Presentación de las herramientas de trabajo del semestre:
+1.	Visual Studio Code
+2.	Python
+3.	Git
+4.	GitHub
+
+Presentación del sistema de evaluación:
+-	Informes (un total de 3)
+-	Informes de trabajo
+-	Ejercicios
+-	Proyecto final
+Crearemos 3 repositorios:
+-	Clases
+-	Ejercicios
+-	Informes
+
+Explicación del uso del lenguaje de Git y GitHub para la organización y salvado de proyectos 
+en repositorios en una nube
+
+ 	
+Instalamos VSC, Python y Git
+Creamos una cuenta GitHub
+
+
+Se configura el entorno de desarrollo para python con las herramientas mencionadas
+
+Herramientas mediante las cuales crearemos nuestro 1er repositorio llamada Clases
+
+El repositorio clases contendra todo lo impartido en clases, estara compuesto por archivos de texto
+y practicas de codigo
+
+Configurar GitHub en Visual Studio Code
+
+*Configurar usuario y contraseña en el terminal
+*Seleccionar la pestaña de Git (los 3 nodos)
+*Inicializar repositorio (Working Directory) click Initialize_repository
+*Llevar el repository al stage area: seleccionar +
+*Llevar el repositorio al commit area: debemos darle un nombre al commit
+*Publicar en la nube
+
+
+# La proxima clase empezamos con python, sus bases y operaciones basicas

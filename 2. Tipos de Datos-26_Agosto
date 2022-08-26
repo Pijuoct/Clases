@@ -1,0 +1,16 @@
+26 Agosto 2022
+
+TIPOS DE DATOS EN python
+
+* BOOLEANOS: True, False
+* STRINGS: " ", ' ', "casa", "123"
+* ENTEROS: -1000, 17, 22, 3 , 0
+* FLOTANTES: 12.5, -10.0
+
+
+* LISTAS: [], [1,2,3], ['A','B','C'], [1, True, 'hola mundo']   MUTABLES
+* TUPLAS: (), (1,2,3), ('A','B','C'), (1, True, 'hola mundo')   INMUTABLES
+* CONJUNTOS: {}, {""}, {['hola','test']}   DATOS NO REPETIBLES
+* DICCIONARIOS: {'Cristian':5, 'Daniela':0, 'Sebastian': 3}  NOMBRES/CLAVES ASOCIADAS A VALORES
+
+

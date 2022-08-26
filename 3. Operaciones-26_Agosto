@@ -1,0 +1,23 @@
+26-06-2022
+
+BOOLEANOS: 
+* +, suma
+* AND, y
+* OR, o
+
+ENTEROS:
+* +, suma
+* -, resta
+* *, multiplicacion
+* /, divison
+* //, division entera
+* %, residuo de una division
+* **, potencia y raiz
+* > <, mayor o menor
+* >= =<, mayor/igual o menor/igual
+* ==, igual
+* !=, diferente de
+
+STRINGS:
+* +, concatenación
+* string[indice], indexado
