@@ -31,3 +31,4 @@ Operadores logicos: not, and, or
 Operadores de comparacion: <,>,<=,>=,!=,==
 Operadores de pertenencia: in, not in
 Operadores de conjuntos: |, &, -
+
