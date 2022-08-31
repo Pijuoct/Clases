@@ -21,3 +21,13 @@ ENTEROS:
 STRINGS:
 * +, concatenación
 * string[indice], indexado
+
+31-08-2022
+Tipos de Operadores ==>
+
+Operador de asignacion: =
+Operadores aritmeticos: +,-,*,/,//,%,**
+Operadores logicos: not, and, or
+Operadores de comparacion: <,>,<=,>=,!=,==
+Operadores de pertenencia: in, not in
+Operadores de conjuntos: |, &, -
