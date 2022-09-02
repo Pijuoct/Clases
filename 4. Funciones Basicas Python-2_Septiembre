@@ -1,0 +1,36 @@
+#02-09-2022
+#
+#
+#---------------Funciones Integradas de Python---------------
+#
+#
+#-> Entrada y salida: input(), print(), format() 
+#
+#                                       #format() me cambia el formato de presentacion de una valor (# de decimales, notacion cientifica, etc)
+#
+#-> Ayuda: help(), dir(), type()
+#
+#-> Matematicas: abs(), round(), pow() ...
+#
+#-> Conversiones: int(), float(), str(), complex(),
+#                 bool(), set(), list(), tuple()
+#
+#                 bin(), oct(), hex(), int()
+#
+#-> Secuencias: range(), enumrate(), zip()
+#
+#                        #enumrate() enumera los datos
+#                        #zip() junta elementos una a una de listas
+#
+#                        # for pos,letra in 'abcdefghijklmnopqrstuvwxyz':
+#                        #   print(pos,letra) #desempaquetamiento
+#
+#-> Operaciones con Secuancias: len(),sum(),min(),max(),sorted()
+#                               map(),filter()
+#                               
+#                               #map() replica un procedimiento a cada elementos de una listas
+#                               #def funcion(elemento):
+#                               #   return elemento
+#
+#                               #print(list(map(funcion,[1,2,3,4])))
+
