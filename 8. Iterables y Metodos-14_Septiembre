@@ -29,7 +29,7 @@ Slicing:       [indice1:indice2:salto]
 
 ------Listas---------
 operaciones: append(value), insert(index, value), 
-             pop(index), remove(value),
+             pop(index), remove(value), --> remover elementos
              count(value)
 ordenado:    sort(), reverse()
 almacenamiento: clear(), copy()
@@ -47,3 +47,4 @@ Slicing:  [indice1:indice2:salto]
 Extraccion: items(), keys(), values(), get(key)
 Eliminar: pop(key)
 Almacenamiento: clear(), copy()
+Indexado: [key]
